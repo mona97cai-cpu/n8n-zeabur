@@ -1,0 +1,8 @@
+{
+  "name": "n8n-zeabur",
+  "version": "1.0.0",
+  "dependencies": {
+    "n8n": "^1.40.0",  # 兼容最新版 n8n，避免版本冲突
+    "n8n-nodes-feishu": "^1.0.0"
+  }
+}
